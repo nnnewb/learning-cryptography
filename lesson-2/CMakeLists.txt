@@ -1,0 +1,1 @@
+add_executable(encrypt src/main.cpp)
