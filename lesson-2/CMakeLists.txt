@@ -1,1 +1,1 @@
-add_executable(encrypt src/main.cpp)
+add_executable(lesson2 src/main.cpp)
