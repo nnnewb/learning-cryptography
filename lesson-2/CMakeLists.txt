@@ -1,1 +1,1 @@
-add_executable(lesson2 src/main.cpp)
+add_executable(playfair src/playfair.cpp)

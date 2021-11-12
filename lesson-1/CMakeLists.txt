@@ -1,1 +1,2 @@
-add_executable(lesson1 src/main.cpp)
+add_executable(caesar src/caesar.cpp)
+add_executable(substitution src/substitution.cpp)
